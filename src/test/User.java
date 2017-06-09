@@ -9,10 +9,10 @@ public class User {
 	}
 	
 	public void print() {
-		System.out.println("Ð¦Ò»¸öÀ²");
+		System.out.println("smile");
 	}
 	public static void main(String[] args) {
-		System.out.println("¿ªÐÄÁËÀ²");
+		System.out.println("destroy one by one");
 	}
 
 }
