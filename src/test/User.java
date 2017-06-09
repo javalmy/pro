@@ -4,11 +4,15 @@ public class User {
 	public int  sum(int x,int y) {
 		return x+y;
 	}
+	public void eat(){
+		System.out.println("eat food");
+	}
+	
 	public void print() {
-		System.out.println("Ğ¦Ò»¸öÀ²");
+		System.out.println("ÃÂ¦Ã’Â»Â¸Ã¶Ã€Â²");
 	}
 	public static void main(String[] args) {
-		System.out.println("¿ªĞÄÁËÀ²");
+		System.out.println("Â¿ÂªÃÃ„ÃÃ‹Ã€Â²");
 	}
 
 }
